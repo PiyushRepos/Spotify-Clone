@@ -13,7 +13,7 @@ The Spotify Clone project aims to mimic the user interface of the popular music 
 <h2>Technologies Used</h2>
 <ul>
   <li><b>HTML</b></li>
-  <li><b>HTML</b></li>
+  <li><b>CSS</b></li>
 </ul>
 
 <h2>Setup</h2>
